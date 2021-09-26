@@ -1,1 +1,1 @@
-# compatability-chart
+# compatibility-chart
